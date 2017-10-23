@@ -1,5 +1,5 @@
 {
-    "name": "bblaker/payments-sdk",
+    "name": "bblaker/litle-sdk-for-php",
     "type": "library",
     "description": "The Litle PHP SDK is a PHP implementation of the [Litle &amp; Co.](http://www.litle.com). XML API. This SDK was created to make it as easy as possible to connect process your payments with Litle",
     "keywords": ["litle","sdk","ecommerce","payments"],
